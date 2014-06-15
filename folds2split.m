@@ -1,9 +1,7 @@
 function [ out ] = fold2split(fold,path)
 %{
     Author : Vaibhav Malpani 
-    Uni: vom2102
-    Course: Biometrics CS6737
-    Homework 5 - Face Verification using SIFT features in SVM classifier
+    Face Verification using SIFT features in SVM classifier
     
     Splits dataset into training and test for a single fold.
     Iteratively call this function to build up training and test set.

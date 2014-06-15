@@ -1,9 +1,7 @@
 function [ final_out ] = genDescriptors(img1_path, img2_path, label, path)
 %{
     Author : Vaibhav Malpani 
-    Uni: vom2102
-    Course: Biometrics CS6737
-    Homework 5 - Face Verification using SIFT features in SVM classifier
+    Face Verification using SIFT features in SVM classifier
 
     Generates SIFT features corresponding to (x,y) coordinates mentioned 
     in x_all and y_all.

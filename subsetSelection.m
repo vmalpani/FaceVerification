@@ -1,9 +1,7 @@
 function [ featureSubset ] = subsetSelection( full_features, poi_idx )
 %{ 
     Author : Vaibhav Malpani 
-    Uni: vom2102
-    Course: Biometrics CS6737
-    Homework 5 - Face Verification using SIFT features in SVM classifier
+    Face Verification using SIFT features in SVM classifier
     
     Given the full feature set, choose desriptors corresponding to the 
     points in poi_idx

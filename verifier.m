@@ -1,9 +1,7 @@
 function [test,train] = verifier(pairs_path, data_path, out_path)
 % %{
 % Author : Vaibhav Malpani 
-% Uni: vom2102
-% Course: Biometrics CS6737
-% Homework 5 - Face Verification using SIFT features in SVM classifier
+% Face Verification using SIFT features in SVM classifier
 % 
 % This is the main function which calls all other functions to generate
 % features, normalize them and train the SVM classifier to generate a model 
